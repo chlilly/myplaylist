@@ -1,0 +1,168 @@
+{
+    "myplaylist": [
+        {
+            "PutRequest": {
+                "Item": {
+                    "artistid": {
+                        "S": "SZA"
+                    },
+                    "song": {
+                        "S": "Good Days"
+                    },
+                    "genre": {
+                        "S": "R&B"
+                    }
+                    
+                  
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "artistid": {
+                        "S": "Jodeci"
+                    },
+                    "song": {
+                        "S": "Forever My Lady"
+                    },
+                    "genre": {
+                        "S": "R&B"
+                    }
+                  
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "artistid": {
+                        "S": "Brandy"
+                    },
+                    "song": {
+                        "S": "I wanna be down"
+                    },
+                    "genre": {
+                        "S": "R&B"
+                    }
+                  
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "artistid": {
+                        "S": "Muni Long"
+                    },
+                    "song": {
+                        "S": "Hours"
+                    },
+                    "genre": {
+                        "S": "R&B"
+                    } 
+                  
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "artistid": {
+                        "S": "HER"
+                    },
+                    "song": {
+                        "S": "Damage"
+                    },
+                    "genre": {
+                        "S": "R&B"
+                    }
+                  
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "artistid": {
+                        "S": "Ari Lennox"
+                    },
+                    "song": {
+                        "S": ""
+                    },
+                    "genre": {
+                        "S": "R&B"
+                    }
+                  
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "artistid": {
+                        "S": "Jon B"
+                    },
+                    "song": {
+                        "S": "Calling on you"
+                    },
+                    "genre": {
+                        "S": "R&B"
+                    }
+                  
+                }
+            }
+        },
+        {
+            "PutRequest": {
+                "Item": {
+                    "artistid": {
+                        "S": "Wildberry"
+                    },
+                    "song": {
+                        "S": "Naked"
+                    },
+                    "genre": {
+                        "S": "R&B"
+                    }
+                  
+                }
+            }
+        },{
+            "PutRequest": {
+                "Item": {
+                    "artistid": {
+                        "S": "Brent Faiyaz"
+                    },
+                    "song": {
+                        "S": "All Mine"
+                    },
+                    "genre": {
+                        "S": "R&B"
+                    }
+                  
+                }
+            }
+        },{
+            "PutRequest": {
+                "Item": {
+                    "artistid": {
+                        "S": "Lucky Daye"
+                    },
+                    "song": {
+                        "S": "Over"
+                    },
+                    "genre": {
+                        "S": "R&B"
+                    }
+                  
+                }
+            }
+        }
+
+    ]
+
+}    
+        
+    
+        
